@@ -2,7 +2,8 @@ import { useRef , useState , useEffect , Recoil , RecoilRoot , useSetRecoilState
 
 function App(){
     return (<div>
-        
+        <Component></Component>
+        <Hello></Hello>
     </div>)
 }
    // helloworld
